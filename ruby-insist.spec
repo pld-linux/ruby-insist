@@ -2,7 +2,7 @@
 Summary:	A simple block-driven assertion library for both testing and for production code
 Name:		ruby-%{pkgname}
 Version:	0.0.5
-Release:	0.1
+Release:	1
 License:	Apache v2.0
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
