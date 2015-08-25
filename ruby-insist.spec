@@ -1,12 +1,12 @@
 %define	pkgname	insist
 Summary:	A simple block-driven assertion library for both testing and for production code
 Name:		ruby-%{pkgname}
-Version:	0.0.5
+Version:	0.0.8
 Release:	1
 License:	Apache v2.0
 Group:		Development/Languages
 Source0:	http://rubygems.org/downloads/%{pkgname}-%{version}.gem
-# Source0-md5:	b45ffe184c459491ae957e8a0b807f9b
+# Source0-md5:	dfb182bc8675a755f9139c0913ba1b10
 URL:		https://github.com/jordansissel/ruby-insist
 BuildRequires:	rpm-rubyprov
 BuildRequires:	rpmbuild(macros) >= 1.656
